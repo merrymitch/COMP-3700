@@ -1,0 +1,7 @@
+Mary Mitchell
+COMP3700-001
+Project 2 Report
+
+To complete this project I used the code provided for us in the NoteEditor assignment, the StoreManagerClientServer program from lecture, and the material from Project 1. I used a combination of these sources along with my own code to get my final program. Like Project 1, this program follows the Model-View-Controller, Singleton, Adapter, Data Access, Business Logic, and User Interface specifications. It also adds the client-server component. To start the program, first run the server followed by the client. The user interface is a part of the client and allows the user to load, change, and add information on products, orders, and customers. These user stories are demonstrated in the YouTube link I have included below. 
+
+YouTube link: https://youtu.be/_7prujT5JpM
